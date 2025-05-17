@@ -1,4 +1,4 @@
-a = input("hola")
+a = "hola"
 b = int(4)
 c = int(5)
 print(f"{str(a)}")
